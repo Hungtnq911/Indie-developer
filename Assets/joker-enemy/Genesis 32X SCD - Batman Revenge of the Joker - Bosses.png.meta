@@ -1,0 +1,1500 @@
+fileFormatVersion: 2
+guid: efda50568d7913c4b8f7366b94dc50fb
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1711040797477015343
+    second: Genesis 32X SCD - Batman Revenge of the Joker - Bosses_0
+  - first:
+      213: -4403408625654413710
+    second: Genesis 32X SCD - Batman Revenge of the Joker - Bosses_1
+  - first:
+      213: -411234716313517106
+    second: Genesis 32X SCD - Batman Revenge of the Joker - Bosses_2
+  - first:
+      213: -7916548604110553238
+    second: Genesis 32X SCD - Batman Revenge of the Joker - Bosses_3
+  - first:
+      213: -2379259660770139571
+    second: Genesis 32X SCD - Batman Revenge of the Joker - Bosses_4
+  - first:
+      213: 3887739911683586576
+    second: Genesis 32X SCD - Batman Revenge of the Joker - Bosses_5
+  - first:
+      213: -6431116870662254562
+    second: Genesis 32X SCD - Batman Revenge of the Joker - Bosses_6
+  - first:
+      213: -2945522100036891190
+    second: Genesis 32X SCD - Batman Revenge of the Joker - Bosses_7
+  - first:
+      213: -6758967952329054813
+    second: Genesis 32X SCD - Batman Revenge of the Joker - Bosses_8
+  - first:
+      213: 2575945478186511379
+    second: Genesis 32X SCD - Batman Revenge of the Joker - Bosses_10
+  - first:
+      213: 5496122615786636554
+    second: Genesis 32X SCD - Batman Revenge of the Joker - Bosses_11
+  - first:
+      213: -5282134205378114889
+    second: Genesis 32X SCD - Batman Revenge of the Joker - Bosses_12
+  - first:
+      213: 2309320655462580730
+    second: Genesis 32X SCD - Batman Revenge of the Joker - Bosses_13
+  - first:
+      213: -1436975592906066838
+    second: Genesis 32X SCD - Batman Revenge of the Joker - Bosses_14
+  - first:
+      213: 1871439806262561307
+    second: Genesis 32X SCD - Batman Revenge of the Joker - Bosses_15
+  - first:
+      213: -853960549209593199
+    second: Genesis 32X SCD - Batman Revenge of the Joker - Bosses_16
+  - first:
+      213: -4325637332231080787
+    second: Genesis 32X SCD - Batman Revenge of the Joker - Bosses_17
+  - first:
+      213: 5010038783804280675
+    second: Genesis 32X SCD - Batman Revenge of the Joker - Bosses_18
+  - first:
+      213: 8637069480892828157
+    second: Genesis 32X SCD - Batman Revenge of the Joker - Bosses_19
+  - first:
+      213: -6999121767557326271
+    second: Genesis 32X SCD - Batman Revenge of the Joker - Bosses_20
+  - first:
+      213: -5301576546337686327
+    second: Genesis 32X SCD - Batman Revenge of the Joker - Bosses_21
+  - first:
+      213: -4432283699037706384
+    second: Genesis 32X SCD - Batman Revenge of the Joker - Bosses_22
+  - first:
+      213: 2237721895678800067
+    second: Genesis 32X SCD - Batman Revenge of the Joker - Bosses_23
+  - first:
+      213: -3034515130377251515
+    second: Genesis 32X SCD - Batman Revenge of the Joker - Bosses_24
+  - first:
+      213: -5112049638795803621
+    second: Genesis 32X SCD - Batman Revenge of the Joker - Bosses_25
+  - first:
+      213: 3183675878306203105
+    second: Genesis 32X SCD - Batman Revenge of the Joker - Bosses_26
+  - first:
+      213: 8944795723878596282
+    second: Genesis 32X SCD - Batman Revenge of the Joker - Bosses_27
+  - first:
+      213: -8483219853660396414
+    second: Genesis 32X SCD - Batman Revenge of the Joker - Bosses_28
+  - first:
+      213: -4854798683189502423
+    second: Genesis 32X SCD - Batman Revenge of the Joker - Bosses_29
+  - first:
+      213: 106260349876915827
+    second: Genesis 32X SCD - Batman Revenge of the Joker - Bosses_30
+  - first:
+      213: 4887976583463120322
+    second: Genesis 32X SCD - Batman Revenge of the Joker - Bosses_31
+  - first:
+      213: 7146498026762743163
+    second: Genesis 32X SCD - Batman Revenge of the Joker - Bosses_32
+  - first:
+      213: -2056910730468613454
+    second: Genesis 32X SCD - Batman Revenge of the Joker - Bosses_33
+  - first:
+      213: 551317924710418502
+    second: Genesis 32X SCD - Batman Revenge of the Joker - Bosses_34
+  - first:
+      213: 8937794245959562854
+    second: Genesis 32X SCD - Batman Revenge of the Joker - Bosses_35
+  - first:
+      213: 2421899799965423175
+    second: Genesis 32X SCD - Batman Revenge of the Joker - Bosses_36
+  - first:
+      213: -1028568953102393049
+    second: Genesis 32X SCD - Batman Revenge of the Joker - Bosses_37
+  - first:
+      213: 6326207802006223917
+    second: Genesis 32X SCD - Batman Revenge of the Joker - Bosses_38
+  - first:
+      213: -531896664263973501
+    second: Genesis 32X SCD - Batman Revenge of the Joker - Bosses_39
+  - first:
+      213: -6856917169007582888
+    second: Genesis 32X SCD - Batman Revenge of the Joker - Bosses_40
+  - first:
+      213: 507106148111264472
+    second: Genesis 32X SCD - Batman Revenge of the Joker - Bosses_41
+  - first:
+      213: 3243050403173111905
+    second: Genesis 32X SCD - Batman Revenge of the Joker - Bosses_42
+  - first:
+      213: 5853311931112904131
+    second: Genesis 32X SCD - Batman Revenge of the Joker - Bosses_43
+  - first:
+      213: 1956048972614098193
+    second: Genesis 32X SCD - Batman Revenge of the Joker - Bosses_44
+  - first:
+      213: 2617123340691353878
+    second: Genesis 32X SCD - Batman Revenge of the Joker - Bosses_45
+  - first:
+      213: -6822530681094362477
+    second: Genesis 32X SCD - Batman Revenge of the Joker - Bosses_46
+  - first:
+      213: 2674152475699205906
+    second: Genesis 32X SCD - Batman Revenge of the Joker - Bosses_47
+  - first:
+      213: -3549672997372157308
+    second: Genesis 32X SCD - Batman Revenge of the Joker - Bosses_48
+  - first:
+      213: -5626970929259023950
+    second: Genesis 32X SCD - Batman Revenge of the Joker - Bosses_49
+  - first:
+      213: 3951413350376924441
+    second: Genesis 32X SCD - Batman Revenge of the Joker - Bosses_50
+  - first:
+      213: -8511365065570295413
+    second: Genesis 32X SCD - Batman Revenge of the Joker - Bosses_51
+  - first:
+      213: -7252109070165255352
+    second: Genesis 32X SCD - Batman Revenge of the Joker - Bosses_52
+  - first:
+      213: 2607146235112450432
+    second: Genesis 32X SCD - Batman Revenge of the Joker - Bosses_53
+  - first:
+      213: 4264211105831205917
+    second: Genesis 32X SCD - Batman Revenge of the Joker - Bosses_54
+  - first:
+      213: 8778720489740665623
+    second: Genesis 32X SCD - Batman Revenge of the Joker - Bosses_55
+  - first:
+      213: -7613578085906909562
+    second: Genesis 32X SCD - Batman Revenge of the Joker - Bosses_56
+  - first:
+      213: 7464711991650257582
+    second: Genesis 32X SCD - Batman Revenge of the Joker - Bosses_57
+  - first:
+      213: -5437683080791104912
+    second: Genesis 32X SCD - Batman Revenge of the Joker - Bosses_65
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Batman Revenge of the Joker - Bosses_0
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 463
+        width: 62
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2f81d13a86deb710800000000000000
+      internalID: 1711040797477015343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Batman Revenge of the Joker - Bosses_1
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 463
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2764afa6f23f3e2c0800000000000000
+      internalID: -4403408625654413710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Batman Revenge of the Joker - Bosses_2
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 463
+        width: 68
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec303de44300b4af0800000000000000
+      internalID: -411234716313517106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Batman Revenge of the Joker - Bosses_3
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 463
+        width: 64
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6f30ecfcf4c22290800000000000000
+      internalID: -7916548604110553238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Batman Revenge of the Joker - Bosses_4
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 463
+        width: 71
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d422163c1fb2bfed0800000000000000
+      internalID: -2379259660770139571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Batman Revenge of the Joker - Bosses_5
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 463
+        width: 65
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01a320ff9d604f530800000000000000
+      internalID: 3887739911683586576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Batman Revenge of the Joker - Bosses_6
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 463
+        width: 70
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e109727974510c6a0800000000000000
+      internalID: -6431116870662254562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Batman Revenge of the Joker - Bosses_7
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 383
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acd0d3d81476f17d0800000000000000
+      internalID: -2945522100036891190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Batman Revenge of the Joker - Bosses_8
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 383
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a56d2935725332a0800000000000000
+      internalID: -6758967952329054813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Batman Revenge of the Joker - Bosses_10
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 383
+        width: 30
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31ca414b3c89fb320800000000000000
+      internalID: 2575945478186511379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Batman Revenge of the Joker - Bosses_11
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 393
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0504fb3666264c40800000000000000
+      internalID: 5496122615786636554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Batman Revenge of the Joker - Bosses_12
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 393
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ba4f781de612b6b0800000000000000
+      internalID: -5282134205378114889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Batman Revenge of the Joker - Bosses_13
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 383
+        width: 31
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af1c15d96ea5c0020800000000000000
+      internalID: 2309320655462580730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Batman Revenge of the Joker - Bosses_14
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 383
+        width: 31
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a647de9cf46de0ce0800000000000000
+      internalID: -1436975592906066838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Batman Revenge of the Joker - Bosses_15
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 383
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1a4ec6a690b8f910800000000000000
+      internalID: 1871439806262561307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Batman Revenge of the Joker - Bosses_16
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 303
+        width: 72
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19a2a2ca76f1624f0800000000000000
+      internalID: -853960549209593199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Batman Revenge of the Joker - Bosses_17
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 303
+        width: 72
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da4b239b3cf38f3c0800000000000000
+      internalID: -4325637332231080787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Batman Revenge of the Joker - Bosses_18
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 303
+        width: 72
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36f8593cabb378540800000000000000
+      internalID: 5010038783804280675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Batman Revenge of the Joker - Bosses_19
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 303
+        width: 72
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df90cf48ee80dd770800000000000000
+      internalID: 8637069480892828157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Batman Revenge of the Joker - Bosses_20
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 303
+        width: 66
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14a9a09d5df1ede90800000000000000
+      internalID: -6999121767557326271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Batman Revenge of the Joker - Bosses_21
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 303
+        width: 72
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ccfff558340d66b0800000000000000
+      internalID: -5301576546337686327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Batman Revenge of the Joker - Bosses_22
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 303
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0776a1f757d5d72c0800000000000000
+      internalID: -4432283699037706384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Batman Revenge of the Joker - Bosses_23
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 303
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c07c0a453cfd0f10800000000000000
+      internalID: 2237721895678800067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Batman Revenge of the Joker - Bosses_24
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 239
+        width: 56
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 545d054019c33e5d0800000000000000
+      internalID: -3034515130377251515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Batman Revenge of the Joker - Bosses_25
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 239
+        width: 56
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b14896530f95e09b0800000000000000
+      internalID: -5112049638795803621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Batman Revenge of the Joker - Bosses_26
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 239
+        width: 56
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e5cb6ee750be2c20800000000000000
+      internalID: 3183675878306203105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Batman Revenge of the Joker - Bosses_27
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 239
+        width: 56
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abe773eb15c422c70800000000000000
+      internalID: 8944795723878596282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Batman Revenge of the Joker - Bosses_28
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 239
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 284e7073d7c854a80800000000000000
+      internalID: -8483219853660396414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Batman Revenge of the Joker - Bosses_29
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 239
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92e9478c15a40acb0800000000000000
+      internalID: -4854798683189502423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Batman Revenge of the Joker - Bosses_30
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 239
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37e4f18a933897100800000000000000
+      internalID: 106260349876915827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Batman Revenge of the Joker - Bosses_31
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 239
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cd2fb71ec495d340800000000000000
+      internalID: 4887976583463120322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Batman Revenge of the Joker - Bosses_32
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 239
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7d293177167d2360800000000000000
+      internalID: 7146498026762743163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Batman Revenge of the Joker - Bosses_33
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 159
+        width: 68
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b2aabfa6926473e0800000000000000
+      internalID: -2056910730468613454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Batman Revenge of the Joker - Bosses_34
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 159
+        width: 68
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6488ba44bbca6a700800000000000000
+      internalID: 551317924710418502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Batman Revenge of the Joker - Bosses_35
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 159
+        width: 68
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66633f1238c690c70800000000000000
+      internalID: 8937794245959562854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Batman Revenge of the Joker - Bosses_36
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 159
+        width: 70
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 746578a49015c9120800000000000000
+      internalID: 2421899799965423175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Batman Revenge of the Joker - Bosses_37
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 159
+        width: 64
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 721265b9cf9c9b1f0800000000000000
+      internalID: -1028568953102393049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Batman Revenge of the Joker - Bosses_38
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 214
+        width: 24
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2cb2ed6a743bc750800000000000000
+      internalID: 6326207802006223917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Batman Revenge of the Joker - Bosses_39
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 159
+        width: 64
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 385a45d4dc25e98f0800000000000000
+      internalID: -531896664263973501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Batman Revenge of the Joker - Bosses_40
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 216
+        width: 23
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 851a60f0a2657d0a0800000000000000
+      internalID: -6856917169007582888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Batman Revenge of the Joker - Bosses_41
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 159
+        width: 68
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8daa69dda5a990700800000000000000
+      internalID: 507106148111264472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Batman Revenge of the Joker - Bosses_42
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 79
+        width: 68
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16812d5c821a10d20800000000000000
+      internalID: 3243050403173111905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Batman Revenge of the Joker - Bosses_43
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 84
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c55a8d60342b3150800000000000000
+      internalID: 5853311931112904131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Batman Revenge of the Joker - Bosses_44
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 79
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11d5eef4d28452b10800000000000000
+      internalID: 1956048972614098193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Batman Revenge of the Joker - Bosses_45
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 79
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 611ba4fefc3e15420800000000000000
+      internalID: 2617123340691353878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Batman Revenge of the Joker - Bosses_46
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 79
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39aaa2c2e708151a0800000000000000
+      internalID: -6822530681094362477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Batman Revenge of the Joker - Bosses_47
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 79
+        width: 64
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2175845228f7c1520800000000000000
+      internalID: 2674152475699205906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Batman Revenge of the Joker - Bosses_48
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 79
+        width: 64
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48226d247370dbec0800000000000000
+      internalID: -3549672997372157308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Batman Revenge of the Joker - Bosses_49
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 79
+        width: 64
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b1f018b0cbf8e1b0800000000000000
+      internalID: -5626970929259023950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Batman Revenge of the Joker - Bosses_50
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 79
+        width: 64
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 915e3f5b18d36d630800000000000000
+      internalID: 3951413350376924441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Batman Revenge of the Joker - Bosses_51
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 79
+        width: 23
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b816309619e81e980800000000000000
+      internalID: -8511365065570295413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Batman Revenge of the Joker - Bosses_52
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 7
+        width: 61
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84b596859355b5b90800000000000000
+      internalID: -7252109070165255352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Batman Revenge of the Joker - Bosses_53
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 7
+        width: 61
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 089ef5500b17e2420800000000000000
+      internalID: 2607146235112450432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Batman Revenge of the Joker - Bosses_54
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 7
+        width: 61
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1c385278658d2b30800000000000000
+      internalID: 4264211105831205917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Batman Revenge of the Joker - Bosses_55
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 7
+        width: 61
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7138f6516c744d970800000000000000
+      internalID: 8778720489740665623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Batman Revenge of the Joker - Bosses_56
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 7
+        width: 61
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 686f1dfb113275690800000000000000
+      internalID: -7613578085906909562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Batman Revenge of the Joker - Bosses_57
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 7
+        width: 61
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eaa89e4b10cf79760800000000000000
+      internalID: 7464711991650257582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Batman Revenge of the Joker - Bosses_65
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 7
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0726b405c087984b0800000000000000
+      internalID: -5437683080791104912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

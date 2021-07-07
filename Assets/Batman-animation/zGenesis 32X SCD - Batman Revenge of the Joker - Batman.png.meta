@@ -1,0 +1,3591 @@
+fileFormatVersion: 2
+guid: f88730526832d284b887657338185a48
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3869913758941052489
+    second: zGenesis 32X SCD - Batman Revenge of the Joker - Batman_0
+  - first:
+      213: -2366600218661592098
+    second: zGenesis 32X SCD - Batman Revenge of the Joker - Batman_1
+  - first:
+      213: 7492242388421511352
+    second: zGenesis 32X SCD - Batman Revenge of the Joker - Batman_2
+  - first:
+      213: -4294555859443443195
+    second: zGenesis 32X SCD - Batman Revenge of the Joker - Batman_3
+  - first:
+      213: 2337755441853089226
+    second: zGenesis 32X SCD - Batman Revenge of the Joker - Batman_4
+  - first:
+      213: 7022049466913901235
+    second: zGenesis 32X SCD - Batman Revenge of the Joker - Batman_5
+  - first:
+      213: 2038870079705442873
+    second: zGenesis 32X SCD - Batman Revenge of the Joker - Batman_6
+  - first:
+      213: -3964543781615779008
+    second: zGenesis 32X SCD - Batman Revenge of the Joker - Batman_7
+  - first:
+      213: 688058357356362088
+    second: zGenesis 32X SCD - Batman Revenge of the Joker - Batman_8
+  - first:
+      213: 3122762084560725045
+    second: zGenesis 32X SCD - Batman Revenge of the Joker - Batman_9
+  - first:
+      213: 5846360117617615720
+    second: zGenesis 32X SCD - Batman Revenge of the Joker - Batman_10
+  - first:
+      213: -1457156171730253637
+    second: zGenesis 32X SCD - Batman Revenge of the Joker - Batman_11
+  - first:
+      213: 5064836270978378271
+    second: zGenesis 32X SCD - Batman Revenge of the Joker - Batman_12
+  - first:
+      213: -7100663929809529435
+    second: zGenesis 32X SCD - Batman Revenge of the Joker - Batman_13
+  - first:
+      213: 5047247825708741435
+    second: zGenesis 32X SCD - Batman Revenge of the Joker - Batman_14
+  - first:
+      213: 5234656882680885778
+    second: zGenesis 32X SCD - Batman Revenge of the Joker - Batman_15
+  - first:
+      213: 7854428907857256278
+    second: zGenesis 32X SCD - Batman Revenge of the Joker - Batman_16
+  - first:
+      213: -8560217758266262983
+    second: zGenesis 32X SCD - Batman Revenge of the Joker - Batman_17
+  - first:
+      213: 3582535258775450771
+    second: zGenesis 32X SCD - Batman Revenge of the Joker - Batman_18
+  - first:
+      213: 39982302210921601
+    second: zGenesis 32X SCD - Batman Revenge of the Joker - Batman_19
+  - first:
+      213: 3257863166135028832
+    second: zGenesis 32X SCD - Batman Revenge of the Joker - Batman_20
+  - first:
+      213: 5212149352566427547
+    second: zGenesis 32X SCD - Batman Revenge of the Joker - Batman_21
+  - first:
+      213: -783965148791650960
+    second: zGenesis 32X SCD - Batman Revenge of the Joker - Batman_22
+  - first:
+      213: 8988257641511457570
+    second: zGenesis 32X SCD - Batman Revenge of the Joker - Batman_23
+  - first:
+      213: 2522924551270133059
+    second: zGenesis 32X SCD - Batman Revenge of the Joker - Batman_24
+  - first:
+      213: -3537932116131810543
+    second: zGenesis 32X SCD - Batman Revenge of the Joker - Batman_25
+  - first:
+      213: -2939967938093668981
+    second: zGenesis 32X SCD - Batman Revenge of the Joker - Batman_26
+  - first:
+      213: -3294835889471543648
+    second: zGenesis 32X SCD - Batman Revenge of the Joker - Batman_27
+  - first:
+      213: 7986690359688892436
+    second: zGenesis 32X SCD - Batman Revenge of the Joker - Batman_28
+  - first:
+      213: 2806217001324973579
+    second: zGenesis 32X SCD - Batman Revenge of the Joker - Batman_29
+  - first:
+      213: -1979138085739746331
+    second: zGenesis 32X SCD - Batman Revenge of the Joker - Batman_30
+  - first:
+      213: -5582775424306665672
+    second: zGenesis 32X SCD - Batman Revenge of the Joker - Batman_31
+  - first:
+      213: 7315673846374228734
+    second: zGenesis 32X SCD - Batman Revenge of the Joker - Batman_32
+  - first:
+      213: -6910417624716422010
+    second: zGenesis 32X SCD - Batman Revenge of the Joker - Batman_33
+  - first:
+      213: -8191641105460325110
+    second: zGenesis 32X SCD - Batman Revenge of the Joker - Batman_34
+  - first:
+      213: 3557051787740268487
+    second: zGenesis 32X SCD - Batman Revenge of the Joker - Batman_35
+  - first:
+      213: 3922603381029778080
+    second: zGenesis 32X SCD - Batman Revenge of the Joker - Batman_36
+  - first:
+      213: 1537492314811110320
+    second: zGenesis 32X SCD - Batman Revenge of the Joker - Batman_37
+  - first:
+      213: -2284643207040890887
+    second: zGenesis 32X SCD - Batman Revenge of the Joker - Batman_38
+  - first:
+      213: -2062204136745995687
+    second: zGenesis 32X SCD - Batman Revenge of the Joker - Batman_39
+  - first:
+      213: -4076200519793826834
+    second: zGenesis 32X SCD - Batman Revenge of the Joker - Batman_40
+  - first:
+      213: 8501165019522468482
+    second: zGenesis 32X SCD - Batman Revenge of the Joker - Batman_41
+  - first:
+      213: -1266497281211349020
+    second: zGenesis 32X SCD - Batman Revenge of the Joker - Batman_42
+  - first:
+      213: -424261576702188017
+    second: zGenesis 32X SCD - Batman Revenge of the Joker - Batman_43
+  - first:
+      213: 7614070941395238991
+    second: zGenesis 32X SCD - Batman Revenge of the Joker - Batman_44
+  - first:
+      213: 6718279030141462123
+    second: zGenesis 32X SCD - Batman Revenge of the Joker - Batman_45
+  - first:
+      213: -7567611961370164418
+    second: zGenesis 32X SCD - Batman Revenge of the Joker - Batman_46
+  - first:
+      213: -619705549286328913
+    second: zGenesis 32X SCD - Batman Revenge of the Joker - Batman_47
+  - first:
+      213: -1709919029234796507
+    second: zGenesis 32X SCD - Batman Revenge of the Joker - Batman_48
+  - first:
+      213: -3563482956353126559
+    second: zGenesis 32X SCD - Batman Revenge of the Joker - Batman_49
+  - first:
+      213: 3867758193577451589
+    second: zGenesis 32X SCD - Batman Revenge of the Joker - Batman_50
+  - first:
+      213: -6982986830031493611
+    second: zGenesis 32X SCD - Batman Revenge of the Joker - Batman_51
+  - first:
+      213: 1991095277253327304
+    second: zGenesis 32X SCD - Batman Revenge of the Joker - Batman_52
+  - first:
+      213: 5288208443854652306
+    second: zGenesis 32X SCD - Batman Revenge of the Joker - Batman_53
+  - first:
+      213: -2167266540222760289
+    second: zGenesis 32X SCD - Batman Revenge of the Joker - Batman_54
+  - first:
+      213: -9172842108637718049
+    second: zGenesis 32X SCD - Batman Revenge of the Joker - Batman_55
+  - first:
+      213: -3912531587179053885
+    second: zGenesis 32X SCD - Batman Revenge of the Joker - Batman_56
+  - first:
+      213: -1943157523371218764
+    second: zGenesis 32X SCD - Batman Revenge of the Joker - Batman_57
+  - first:
+      213: -2907343423339343783
+    second: zGenesis 32X SCD - Batman Revenge of the Joker - Batman_58
+  - first:
+      213: 5919804668436950708
+    second: zGenesis 32X SCD - Batman Revenge of the Joker - Batman_59
+  - first:
+      213: -7437432671657761420
+    second: zGenesis 32X SCD - Batman Revenge of the Joker - Batman_60
+  - first:
+      213: -6335136345454656101
+    second: zGenesis 32X SCD - Batman Revenge of the Joker - Batman_61
+  - first:
+      213: -8412381059701698321
+    second: zGenesis 32X SCD - Batman Revenge of the Joker - Batman_62
+  - first:
+      213: -3902454743142722899
+    second: zGenesis 32X SCD - Batman Revenge of the Joker - Batman_63
+  - first:
+      213: 3925837685299109426
+    second: zGenesis 32X SCD - Batman Revenge of the Joker - Batman_64
+  - first:
+      213: 9035569125286425138
+    second: zGenesis 32X SCD - Batman Revenge of the Joker - Batman_65
+  - first:
+      213: 2244470613567421835
+    second: zGenesis 32X SCD - Batman Revenge of the Joker - Batman_66
+  - first:
+      213: -5470363360814480246
+    second: zGenesis 32X SCD - Batman Revenge of the Joker - Batman_67
+  - first:
+      213: -8736266459595119779
+    second: zGenesis 32X SCD - Batman Revenge of the Joker - Batman_68
+  - first:
+      213: 6741120816865709338
+    second: zGenesis 32X SCD - Batman Revenge of the Joker - Batman_69
+  - first:
+      213: -1336382087288314496
+    second: zGenesis 32X SCD - Batman Revenge of the Joker - Batman_70
+  - first:
+      213: 7805399339404092191
+    second: zGenesis 32X SCD - Batman Revenge of the Joker - Batman_71
+  - first:
+      213: -1805415005636542856
+    second: zGenesis 32X SCD - Batman Revenge of the Joker - Batman_72
+  - first:
+      213: 1881519851442559420
+    second: zGenesis 32X SCD - Batman Revenge of the Joker - Batman_73
+  - first:
+      213: -4499560021843798617
+    second: zGenesis 32X SCD - Batman Revenge of the Joker - Batman_74
+  - first:
+      213: 5884662023187556866
+    second: zGenesis 32X SCD - Batman Revenge of the Joker - Batman_75
+  - first:
+      213: -1318195567103070138
+    second: zGenesis 32X SCD - Batman Revenge of the Joker - Batman_76
+  - first:
+      213: 7073804310946660859
+    second: zGenesis 32X SCD - Batman Revenge of the Joker - Batman_77
+  - first:
+      213: 702038848864996516
+    second: zGenesis 32X SCD - Batman Revenge of the Joker - Batman_78
+  - first:
+      213: 6990491459397761996
+    second: zGenesis 32X SCD - Batman Revenge of the Joker - Batman_79
+  - first:
+      213: -4168138474597701653
+    second: zGenesis 32X SCD - Batman Revenge of the Joker - Batman_80
+  - first:
+      213: 3579953092699307172
+    second: zGenesis 32X SCD - Batman Revenge of the Joker - Batman_81
+  - first:
+      213: 3922910409594900764
+    second: zGenesis 32X SCD - Batman Revenge of the Joker - Batman_82
+  - first:
+      213: -1490076369032693175
+    second: zGenesis 32X SCD - Batman Revenge of the Joker - Batman_83
+  - first:
+      213: 7520396805776386382
+    second: zGenesis 32X SCD - Batman Revenge of the Joker - Batman_84
+  - first:
+      213: 1185713999368722367
+    second: zGenesis 32X SCD - Batman Revenge of the Joker - Batman_85
+  - first:
+      213: 4179095221217534452
+    second: zGenesis 32X SCD - Batman Revenge of the Joker - Batman_86
+  - first:
+      213: 1321653820782104979
+    second: zGenesis 32X SCD - Batman Revenge of the Joker - Batman_87
+  - first:
+      213: -5263045917557324782
+    second: zGenesis 32X SCD - Batman Revenge of the Joker - Batman_88
+  - first:
+      213: 6697597731188387243
+    second: zGenesis 32X SCD - Batman Revenge of the Joker - Batman_89
+  - first:
+      213: -4158724906202944363
+    second: zGenesis 32X SCD - Batman Revenge of the Joker - Batman_90
+  - first:
+      213: -2720511413193864033
+    second: zGenesis 32X SCD - Batman Revenge of the Joker - Batman_91
+  - first:
+      213: -2922895283839250670
+    second: zGenesis 32X SCD - Batman Revenge of the Joker - Batman_92
+  - first:
+      213: 917362181045068313
+    second: zGenesis 32X SCD - Batman Revenge of the Joker - Batman_93
+  - first:
+      213: -1139116533173671513
+    second: zGenesis 32X SCD - Batman Revenge of the Joker - Batman_94
+  - first:
+      213: -8971544081326807375
+    second: zGenesis 32X SCD - Batman Revenge of the Joker - Batman_95
+  - first:
+      213: -6057946666400759100
+    second: zGenesis 32X SCD - Batman Revenge of the Joker - Batman_96
+  - first:
+      213: -4238154918287095414
+    second: zGenesis 32X SCD - Batman Revenge of the Joker - Batman_97
+  - first:
+      213: 2182203799059519972
+    second: zGenesis 32X SCD - Batman Revenge of the Joker - Batman_98
+  - first:
+      213: -3468426418109136509
+    second: zGenesis 32X SCD - Batman Revenge of the Joker - Batman_99
+  - first:
+      213: 5713648519787537755
+    second: zGenesis 32X SCD - Batman Revenge of the Joker - Batman_100
+  - first:
+      213: -3082053676323544160
+    second: zGenesis 32X SCD - Batman Revenge of the Joker - Batman_101
+  - first:
+      213: -2015285294630777367
+    second: zGenesis 32X SCD - Batman Revenge of the Joker - Batman_102
+  - first:
+      213: -1854509159074766681
+    second: zGenesis 32X SCD - Batman Revenge of the Joker - Batman_103
+  - first:
+      213: -7409654072255205830
+    second: zGenesis 32X SCD - Batman Revenge of the Joker - Batman_104
+  - first:
+      213: -8950138257511868921
+    second: zGenesis 32X SCD - Batman Revenge of the Joker - Batman_105
+  - first:
+      213: 784083330414912819
+    second: zGenesis 32X SCD - Batman Revenge of the Joker - Batman_106
+  - first:
+      213: -7134711006341412022
+    second: zGenesis 32X SCD - Batman Revenge of the Joker - Batman_107
+  - first:
+      213: -4096218811094843168
+    second: zGenesis 32X SCD - Batman Revenge of the Joker - Batman_108
+  - first:
+      213: -3579515153700357041
+    second: zGenesis 32X SCD - Batman Revenge of the Joker - Batman_109
+  - first:
+      213: -9072241565663444668
+    second: zGenesis 32X SCD - Batman Revenge of the Joker - Batman_110
+  - first:
+      213: 8961361846222531250
+    second: zGenesis 32X SCD - Batman Revenge of the Joker - Batman_111
+  - first:
+      213: -8640228332359237225
+    second: zGenesis 32X SCD - Batman Revenge of the Joker - Batman_112
+  - first:
+      213: 2130541505796279968
+    second: zGenesis 32X SCD - Batman Revenge of the Joker - Batman_113
+  - first:
+      213: 5132985676288046593
+    second: zGenesis 32X SCD - Batman Revenge of the Joker - Batman_114
+  - first:
+      213: -7693177223418023982
+    second: zGenesis 32X SCD - Batman Revenge of the Joker - Batman_115
+  - first:
+      213: -1933741426611248694
+    second: zGenesis 32X SCD - Batman Revenge of the Joker - Batman_116
+  - first:
+      213: -7421077545040977138
+    second: zGenesis 32X SCD - Batman Revenge of the Joker - Batman_117
+  - first:
+      213: -7270469020582550302
+    second: zGenesis 32X SCD - Batman Revenge of the Joker - Batman_118
+  - first:
+      213: 7012636958384277738
+    second: zGenesis 32X SCD - Batman Revenge of the Joker - Batman_119
+  - first:
+      213: -1521118950338150632
+    second: zGenesis 32X SCD - Batman Revenge of the Joker - Batman_120
+  - first:
+      213: 3403749243549318823
+    second: zGenesis 32X SCD - Batman Revenge of the Joker - Batman_121
+  - first:
+      213: -1330935262613668481
+    second: zGenesis 32X SCD - Batman Revenge of the Joker - Batman_122
+  - first:
+      213: -8640643609439840424
+    second: zGenesis 32X SCD - Batman Revenge of the Joker - Batman_123
+  - first:
+      213: 310179844147698644
+    second: zGenesis 32X SCD - Batman Revenge of the Joker - Batman_124
+  - first:
+      213: 2471852965253723368
+    second: zGenesis 32X SCD - Batman Revenge of the Joker - Batman_125
+  - first:
+      213: 8896480719796417512
+    second: zGenesis 32X SCD - Batman Revenge of the Joker - Batman_126
+  - first:
+      213: 7695594905269838621
+    second: zGenesis 32X SCD - Batman Revenge of the Joker - Batman_127
+  - first:
+      213: 6215806131407041139
+    second: zGenesis 32X SCD - Batman Revenge of the Joker - Batman_128
+  - first:
+      213: 4263568380161109037
+    second: zGenesis 32X SCD - Batman Revenge of the Joker - Batman_129
+  - first:
+      213: 798160378211698929
+    second: zGenesis 32X SCD - Batman Revenge of the Joker - Batman_130
+  - first:
+      213: 6267301122204901049
+    second: zGenesis 32X SCD - Batman Revenge of the Joker - Batman_131
+  - first:
+      213: 7436877266831125282
+    second: zGenesis 32X SCD - Batman Revenge of the Joker - Batman_132
+  - first:
+      213: 233207338355404110
+    second: zGenesis 32X SCD - Batman Revenge of the Joker - Batman_133
+  - first:
+      213: 6896228235100211290
+    second: zGenesis 32X SCD - Batman Revenge of the Joker - Batman_134
+  - first:
+      213: -3101043674886452243
+    second: zGenesis 32X SCD - Batman Revenge of the Joker - Batman_135
+  - first:
+      213: 2104038029883260860
+    second: zGenesis 32X SCD - Batman Revenge of the Joker - Batman_136
+  - first:
+      213: -3114395253783740234
+    second: zGenesis 32X SCD - Batman Revenge of the Joker - Batman_137
+  - first:
+      213: -4874460306158065066
+    second: zGenesis 32X SCD - Batman Revenge of the Joker - Batman_138
+  - first:
+      213: 1578242162647266707
+    second: zGenesis 32X SCD - Batman Revenge of the Joker - Batman_139
+  - first:
+      213: 8373000660104280661
+    second: zGenesis 32X SCD - Batman Revenge of the Joker - Batman_140
+  - first:
+      213: 2534961631294155892
+    second: zGenesis 32X SCD - Batman Revenge of the Joker - Batman_141
+  - first:
+      213: -5063031589648761504
+    second: zGenesis 32X SCD - Batman Revenge of the Joker - Batman_142
+  - first:
+      213: 3205280884905805790
+    second: zGenesis 32X SCD - Batman Revenge of the Joker - Batman_143
+  - first:
+      213: 559089193535500801
+    second: zGenesis 32X SCD - Batman Revenge of the Joker - Batman_144
+  - first:
+      213: 5069088533485081758
+    second: zGenesis 32X SCD - Batman Revenge of the Joker - Batman_145
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: zGenesis 32X SCD - Batman Revenge of the Joker - Batman_0
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 1357
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b10cee90fd4b4ac0800000000000000
+      internalID: -3869913758941052489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zGenesis 32X SCD - Batman Revenge of the Joker - Batman_1
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 1357
+        width: 71
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed36051d3a5282fd0800000000000000
+      internalID: -2366600218661592098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zGenesis 32X SCD - Batman Revenge of the Joker - Batman_2
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 1357
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b80df4b1cac9f760800000000000000
+      internalID: 7492242388421511352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zGenesis 32X SCD - Batman Revenge of the Joker - Batman_3
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 1357
+        width: 72
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50a1dc9033ca664c0800000000000000
+      internalID: -4294555859443443195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zGenesis 32X SCD - Batman Revenge of the Joker - Batman_4
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 1357
+        width: 66
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac5c36b3030617020800000000000000
+      internalID: 2337755441853089226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zGenesis 32X SCD - Batman Revenge of the Joker - Batman_5
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 1357
+        width: 40
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bacf9629c4537160800000000000000
+      internalID: 7022049466913901235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zGenesis 32X SCD - Batman Revenge of the Joker - Batman_6
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 1357
+        width: 52
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93ae30cf8858b4c10800000000000000
+      internalID: 2038870079705442873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zGenesis 32X SCD - Batman Revenge of the Joker - Batman_7
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 1285
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 043ce488f6c1bf8c0800000000000000
+      internalID: -3964543781615779008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zGenesis 32X SCD - Batman Revenge of the Joker - Batman_8
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 1285
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 869f6f63e697c8900800000000000000
+      internalID: 688058357356362088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zGenesis 32X SCD - Batman Revenge of the Joker - Batman_9
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 1285
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 534ec402297465b20800000000000000
+      internalID: 3122762084560725045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zGenesis 32X SCD - Batman Revenge of the Joker - Batman_10
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 1285
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 863eb973d81722150800000000000000
+      internalID: 5846360117617615720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zGenesis 32X SCD - Batman Revenge of the Joker - Batman_11
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 1285
+        width: 60
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb800c1ae2427cbe0800000000000000
+      internalID: -1457156171730253637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zGenesis 32X SCD - Batman Revenge of the Joker - Batman_12
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 1285
+        width: 69
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1a2e29f0c9e94640800000000000000
+      internalID: 5064836270978378271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zGenesis 32X SCD - Batman Revenge of the Joker - Batman_13
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 1285
+        width: 70
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a5164ad6cf557d90800000000000000
+      internalID: -7100663929809529435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zGenesis 32X SCD - Batman Revenge of the Joker - Batman_14
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 1285
+        width: 69
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b337bb0f72d6b0640800000000000000
+      internalID: 5047247825708741435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zGenesis 32X SCD - Batman Revenge of the Joker - Batman_15
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 1213
+        width: 70
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2127f3d43bc35a840800000000000000
+      internalID: 5234656882680885778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zGenesis 32X SCD - Batman Revenge of the Joker - Batman_16
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 1213
+        width: 70
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65f14662a79800d60800000000000000
+      internalID: 7854428907857256278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zGenesis 32X SCD - Batman Revenge of the Joker - Batman_17
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 1213
+        width: 68
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93a7c868d4ff33980800000000000000
+      internalID: -8560217758266262983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zGenesis 32X SCD - Batman Revenge of the Joker - Batman_18
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 1213
+        width: 70
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3947f9636d8b7b130800000000000000
+      internalID: 3582535258775450771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zGenesis 32X SCD - Batman Revenge of the Joker - Batman_19
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 1213
+        width: 67
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 184959821bb0e8000800000000000000
+      internalID: 39982302210921601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zGenesis 32X SCD - Batman Revenge of the Joker - Batman_20
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 1213
+        width: 68
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06cce48e941463d20800000000000000
+      internalID: 3257863166135028832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zGenesis 32X SCD - Batman Revenge of the Joker - Batman_21
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 1213
+        width: 68
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9f01049836455840800000000000000
+      internalID: 5212149352566427547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zGenesis 32X SCD - Batman Revenge of the Joker - Batman_22
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 1141
+        width: 67
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 075ccfdc9dbce15f0800000000000000
+      internalID: -783965148791650960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zGenesis 32X SCD - Batman Revenge of the Joker - Batman_23
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 1141
+        width: 68
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2231bfff3b4bcbc70800000000000000
+      internalID: 8988257641511457570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zGenesis 32X SCD - Batman Revenge of the Joker - Batman_24
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 1141
+        width: 68
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34d6199238a330320800000000000000
+      internalID: 2522924551270133059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zGenesis 32X SCD - Batman Revenge of the Joker - Batman_25
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 1141
+        width: 67
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11374823c7db6eec0800000000000000
+      internalID: -3537932116131810543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zGenesis 32X SCD - Batman Revenge of the Joker - Batman_26
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 1141
+        width: 68
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b85a3e6acb22337d0800000000000000
+      internalID: -2939967938093668981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zGenesis 32X SCD - Batman Revenge of the Joker - Batman_27
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 1141
+        width: 68
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a627de17346642d0800000000000000
+      internalID: -3294835889471543648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zGenesis 32X SCD - Batman Revenge of the Joker - Batman_28
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 1069
+        width: 62
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4101b4c119c66de60800000000000000
+      internalID: 7986690359688892436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zGenesis 32X SCD - Batman Revenge of the Joker - Batman_29
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 1069
+        width: 53
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0e03a6ae7fa1f620800000000000000
+      internalID: 2806217001324973579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zGenesis 32X SCD - Batman Revenge of the Joker - Batman_30
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 1069
+        width: 54
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5eb290e9560b884e0800000000000000
+      internalID: -1979138085739746331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zGenesis 32X SCD - Batman Revenge of the Joker - Batman_31
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 1069
+        width: 61
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 837ab65945ff582b0800000000000000
+      internalID: -5582775424306665672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zGenesis 32X SCD - Batman Revenge of the Joker - Batman_32
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 1069
+        width: 52
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef260c96a9e768560800000000000000
+      internalID: 7315673846374228734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zGenesis 32X SCD - Batman Revenge of the Joker - Batman_33
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 1069
+        width: 56
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 684dd2588c34910a0800000000000000
+      internalID: -6910417624716422010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zGenesis 32X SCD - Batman Revenge of the Joker - Batman_34
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 1069
+        width: 54
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a059c85d0d1715e80800000000000000
+      internalID: -8191641105460325110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zGenesis 32X SCD - Batman Revenge of the Joker - Batman_35
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 1069
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c74def31cf2d5130800000000000000
+      internalID: 3557051787740268487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zGenesis 32X SCD - Batman Revenge of the Joker - Batman_36
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 997
+        width: 71
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a2b6010ef2ef6630800000000000000
+      internalID: 3922603381029778080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zGenesis 32X SCD - Batman Revenge of the Joker - Batman_37
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 997
+        width: 71
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b395354d15465510800000000000000
+      internalID: 1537492314811110320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zGenesis 32X SCD - Batman Revenge of the Joker - Batman_38
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 997
+        width: 71
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f781d59b115b40e0800000000000000
+      internalID: -2284643207040890887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zGenesis 32X SCD - Batman Revenge of the Joker - Batman_39
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 997
+        width: 71
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 952f9ee73449163e0800000000000000
+      internalID: -2062204136745995687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zGenesis 32X SCD - Batman Revenge of the Joker - Batman_40
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 997
+        width: 59
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee32d60593d6e67c0800000000000000
+      internalID: -4076200519793826834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zGenesis 32X SCD - Batman Revenge of the Joker - Batman_41
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 997
+        width: 59
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28a0d9d4b843af570800000000000000
+      internalID: 8501165019522468482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zGenesis 32X SCD - Batman Revenge of the Joker - Batman_42
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 997
+        width: 59
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e74664de6f7c6ee0800000000000000
+      internalID: -1266497281211349020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zGenesis 32X SCD - Batman Revenge of the Joker - Batman_43
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 997
+        width: 59
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f06a1d40858bc1af0800000000000000
+      internalID: -424261576702188017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zGenesis 32X SCD - Batman Revenge of the Joker - Batman_44
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 925
+        width: 72
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f40cc7c1e2d9aa960800000000000000
+      internalID: 7614070941395238991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zGenesis 32X SCD - Batman Revenge of the Joker - Batman_45
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 925
+        width: 72
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b66a985de2f1c3d50800000000000000
+      internalID: 6718279030141462123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zGenesis 32X SCD - Batman Revenge of the Joker - Batman_46
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 925
+        width: 72
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e33c88c14017af690800000000000000
+      internalID: -7567611961370164418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zGenesis 32X SCD - Batman Revenge of the Joker - Batman_47
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 925
+        width: 71
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa53375161d5667f0800000000000000
+      internalID: -619705549286328913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zGenesis 32X SCD - Batman Revenge of the Joker - Batman_48
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 925
+        width: 72
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52877c3d3b52548e0800000000000000
+      internalID: -1709919029234796507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zGenesis 32X SCD - Batman Revenge of the Joker - Batman_49
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 925
+        width: 72
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16fb96f9127fb8ec0800000000000000
+      internalID: -3563482956353126559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zGenesis 32X SCD - Batman Revenge of the Joker - Batman_50
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 853
+        width: 64
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5406a45b5990da530800000000000000
+      internalID: 3867758193577451589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zGenesis 32X SCD - Batman Revenge of the Joker - Batman_51
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 853
+        width: 64
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 516edbcb972771f90800000000000000
+      internalID: -6982986830031493611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zGenesis 32X SCD - Batman Revenge of the Joker - Batman_52
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 853
+        width: 64
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c974aafa9ac1ab10800000000000000
+      internalID: 1991095277253327304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zGenesis 32X SCD - Batman Revenge of the Joker - Batman_53
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 853
+        width: 63
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2938d22cf8d736940800000000000000
+      internalID: 5288208443854652306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zGenesis 32X SCD - Batman Revenge of the Joker - Batman_54
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 853
+        width: 64
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9abe6870925ce1e0800000000000000
+      internalID: -2167266540222760289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zGenesis 32X SCD - Batman Revenge of the Joker - Batman_55
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 853
+        width: 64
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd957e5b3b483b080800000000000000
+      internalID: -9172842108637718049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zGenesis 32X SCD - Batman Revenge of the Joker - Batman_56
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 853
+        width: 44
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cc72bd3045e3b9c0800000000000000
+      internalID: -3912531587179053885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zGenesis 32X SCD - Batman Revenge of the Joker - Batman_57
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 781
+        width: 51
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b8a4dc17848805e0800000000000000
+      internalID: -1943157523371218764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zGenesis 32X SCD - Batman Revenge of the Joker - Batman_58
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 781
+        width: 65
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9505acb6f8a07a7d0800000000000000
+      internalID: -2907343423339343783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zGenesis 32X SCD - Batman Revenge of the Joker - Batman_59
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 781
+        width: 72
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4be22e14bfe572250800000000000000
+      internalID: 5919804668436950708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zGenesis 32X SCD - Batman Revenge of the Joker - Batman_60
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 781
+        width: 51
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47564fce36ee8c890800000000000000
+      internalID: -7437432671657761420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zGenesis 32X SCD - Batman Revenge of the Joker - Batman_62
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 709
+        width: 66
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe091453ff7314b80800000000000000
+      internalID: -8412381059701698321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zGenesis 32X SCD - Batman Revenge of the Joker - Batman_63
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 709
+        width: 56
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da290f25612b7d9c0800000000000000
+      internalID: -3902454743142722899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zGenesis 32X SCD - Batman Revenge of the Joker - Batman_64
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 709
+        width: 64
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23e581623906b7630800000000000000
+      internalID: 3925837685299109426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zGenesis 32X SCD - Batman Revenge of the Joker - Batman_65
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 709
+        width: 71
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2323f283f3ac46d70800000000000000
+      internalID: 9035569125286425138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zGenesis 32X SCD - Batman Revenge of the Joker - Batman_66
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 709
+        width: 68
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8d3d7e9126f52f10800000000000000
+      internalID: 2244470613567421835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zGenesis 32X SCD - Batman Revenge of the Joker - Batman_67
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 709
+        width: 69
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a84475ea18d5514b0800000000000000
+      internalID: -5470363360814480246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zGenesis 32X SCD - Batman Revenge of the Joker - Batman_68
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 629
+        width: 70
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d536ca411fb82c680800000000000000
+      internalID: -8736266459595119779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zGenesis 32X SCD - Batman Revenge of the Joker - Batman_69
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 629
+        width: 69
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1d854dbaa54d8d50800000000000000
+      internalID: 6741120816865709338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zGenesis 32X SCD - Batman Revenge of the Joker - Batman_70
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 629
+        width: 70
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0852cf27297347de0800000000000000
+      internalID: -1336382087288314496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zGenesis 32X SCD - Batman Revenge of the Joker - Batman_71
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 629
+        width: 71
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f13ef3b2859525c60800000000000000
+      internalID: 7805399339404092191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zGenesis 32X SCD - Batman Revenge of the Joker - Batman_72
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 629
+        width: 72
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87ebfdc2e90e1f6e0800000000000000
+      internalID: -1805415005636542856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zGenesis 32X SCD - Batman Revenge of the Joker - Batman_73
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 629
+        width: 69
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb9541f06508c1a10800000000000000
+      internalID: 1881519851442559420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zGenesis 32X SCD - Batman Revenge of the Joker - Batman_74
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 629
+        width: 70
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a59374fff95e81c0800000000000000
+      internalID: -4499560021843798617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zGenesis 32X SCD - Batman Revenge of the Joker - Batman_75
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 629
+        width: 71
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20a635b8ee48aa150800000000000000
+      internalID: 5884662023187556866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zGenesis 32X SCD - Batman Revenge of the Joker - Batman_76
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 549
+        width: 49
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 640b356ad14d4bde0800000000000000
+      internalID: -1318195567103070138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zGenesis 32X SCD - Batman Revenge of the Joker - Batman_77
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 549
+        width: 46
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf14a9cca833b2260800000000000000
+      internalID: 7073804310946660859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zGenesis 32X SCD - Batman Revenge of the Joker - Batman_78
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 549
+        width: 47
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ac4f1d0d942eb900800000000000000
+      internalID: 702038848864996516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zGenesis 32X SCD - Batman Revenge of the Joker - Batman_79
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 549
+        width: 54
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccb3ec2f1f6330160800000000000000
+      internalID: 6990491459397761996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zGenesis 32X SCD - Batman Revenge of the Joker - Batman_80
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 549
+        width: 60
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be727fe142cc726c0800000000000000
+      internalID: -4168138474597701653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zGenesis 32X SCD - Batman Revenge of the Joker - Batman_81
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 549
+        width: 64
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ac37e2de5c8ea130800000000000000
+      internalID: 3579953092699307172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zGenesis 32X SCD - Batman Revenge of the Joker - Batman_82
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 549
+        width: 69
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c111699ab3af07630800000000000000
+      internalID: 3922910409594900764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zGenesis 32X SCD - Batman Revenge of the Joker - Batman_83
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 549
+        width: 72
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94a3a97ef6f225be0800000000000000
+      internalID: -1490076369032693175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zGenesis 32X SCD - Batman Revenge of the Joker - Batman_84
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 477
+        width: 54
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e49a842dc01dd5860800000000000000
+      internalID: 7520396805776386382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zGenesis 32X SCD - Batman Revenge of the Joker - Batman_85
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 477
+        width: 58
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb79499a990847010800000000000000
+      internalID: 1185713999368722367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zGenesis 32X SCD - Batman Revenge of the Joker - Batman_86
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 477
+        width: 56
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f1243f36f02ff930800000000000000
+      internalID: 4179095221217534452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zGenesis 32X SCD - Batman Revenge of the Joker - Batman_87
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 477
+        width: 55
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39151c7c525775210800000000000000
+      internalID: 1321653820782104979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zGenesis 32X SCD - Batman Revenge of the Joker - Batman_88
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 477
+        width: 72
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2140d6f6f97e5f6b0800000000000000
+      internalID: -5263045917557324782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zGenesis 32X SCD - Batman Revenge of the Joker - Batman_89
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 413
+        width: 72
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bad22ffa6a5a2fc50800000000000000
+      internalID: 6697597731188387243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zGenesis 32X SCD - Batman Revenge of the Joker - Batman_90
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 413
+        width: 68
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59c243f4bbd3946c0800000000000000
+      internalID: -4158724906202944363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zGenesis 32X SCD - Batman Revenge of the Joker - Batman_91
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 413
+        width: 64
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9c0f29984dce3ad0800000000000000
+      internalID: -2720511413193864033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zGenesis 32X SCD - Batman Revenge of the Joker - Batman_92
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 413
+        width: 64
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21fc81bb93acf67d0800000000000000
+      internalID: -2922895283839250670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zGenesis 32X SCD - Batman Revenge of the Joker - Batman_93
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 413
+        width: 64
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 912a1931b002bbc00800000000000000
+      internalID: 917362181045068313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zGenesis 32X SCD - Batman Revenge of the Joker - Batman_94
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 413
+        width: 72
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a9a8626c8b0130f0800000000000000
+      internalID: -1139116533173671513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zGenesis 32X SCD - Batman Revenge of the Joker - Batman_95
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 413
+        width: 72
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b6e1c9f03cae7380800000000000000
+      internalID: -8971544081326807375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zGenesis 32X SCD - Batman Revenge of the Joker - Batman_96
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 357
+        width: 69
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c2cbe07a99ddeba0800000000000000
+      internalID: -6057946666400759100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zGenesis 32X SCD - Batman Revenge of the Joker - Batman_97
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 357
+        width: 69
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a894c687e8c0f25c0800000000000000
+      internalID: -4238154918287095414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zGenesis 32X SCD - Batman Revenge of the Joker - Batman_98
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 357
+        width: 60
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e9537e1bceb84e10800000000000000
+      internalID: 2182203799059519972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zGenesis 32X SCD - Batman Revenge of the Joker - Batman_99
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 357
+        width: 64
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 381460b9c8caddfc0800000000000000
+      internalID: -3468426418109136509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zGenesis 32X SCD - Batman Revenge of the Joker - Batman_100
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 309
+        width: 81
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b556f597e05fa4f40800000000000000
+      internalID: 5713648519787537755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zGenesis 32X SCD - Batman Revenge of the Joker - Batman_101
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 309
+        width: 96
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a36c04c2885a35d0800000000000000
+      internalID: -3082053676323544160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zGenesis 32X SCD - Batman Revenge of the Joker - Batman_102
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 309
+        width: 96
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9edc674b3b44804e0800000000000000
+      internalID: -2015285294630777367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zGenesis 32X SCD - Batman Revenge of the Joker - Batman_103
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 309
+        width: 81
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a0e3a4deb57346e0800000000000000
+      internalID: -1854509159074766681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zGenesis 32X SCD - Batman Revenge of the Joker - Batman_104
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 309
+        width: 79
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3ea3ba11ee9b2990800000000000000
+      internalID: -7409654072255205830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zGenesis 32X SCD - Batman Revenge of the Joker - Batman_105
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 253
+        width: 73
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7061f56bca8bac380800000000000000
+      internalID: -8950138257511868921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zGenesis 32X SCD - Batman Revenge of the Joker - Batman_106
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 253
+        width: 73
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 335afaf72af91ea00800000000000000
+      internalID: 784083330414912819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zGenesis 32X SCD - Batman Revenge of the Joker - Batman_107
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 253
+        width: 73
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4b43fb142a6cfc90800000000000000
+      internalID: -7134711006341412022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zGenesis 32X SCD - Batman Revenge of the Joker - Batman_108
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 253
+        width: 74
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e04b6aa1be4727c0800000000000000
+      internalID: -4096218811094843168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zGenesis 32X SCD - Batman Revenge of the Joker - Batman_109
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 253
+        width: 73
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4cff8bcee1035ec0800000000000000
+      internalID: -3579515153700357041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zGenesis 32X SCD - Batman Revenge of the Joker - Batman_110
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 253
+        width: 73
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 441c812ec5ce81280800000000000000
+      internalID: -9072241565663444668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zGenesis 32X SCD - Batman Revenge of the Joker - Batman_111
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 253
+        width: 73
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ba25dbae172d5c70800000000000000
+      internalID: 8961361846222531250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zGenesis 32X SCD - Batman Revenge of the Joker - Batman_112
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 253
+        width: 74
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 791467f0c1eb71880800000000000000
+      internalID: -8640228332359237225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zGenesis 32X SCD - Batman Revenge of the Joker - Batman_113
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 197
+        width: 72
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ae86302634319d10800000000000000
+      internalID: 2130541505796279968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zGenesis 32X SCD - Batman Revenge of the Joker - Batman_114
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 197
+        width: 72
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1063150e6470c3740800000000000000
+      internalID: 5132985676288046593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zGenesis 32X SCD - Batman Revenge of the Joker - Batman_115
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 197
+        width: 72
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dfea0453185c3590800000000000000
+      internalID: -7693177223418023982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zGenesis 32X SCD - Batman Revenge of the Joker - Batman_116
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 197
+        width: 73
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac1216bfa68f925e0800000000000000
+      internalID: -1933741426611248694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zGenesis 32X SCD - Batman Revenge of the Joker - Batman_117
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 197
+        width: 72
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0364359a49030990800000000000000
+      internalID: -7421077545040977138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zGenesis 32X SCD - Batman Revenge of the Joker - Batman_118
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 197
+        width: 72
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e4e1b542fa1a1b90800000000000000
+      internalID: -7270469020582550302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zGenesis 32X SCD - Batman Revenge of the Joker - Batman_119
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 197
+        width: 72
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae8454bb824e15160800000000000000
+      internalID: 7012636958384277738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zGenesis 32X SCD - Batman Revenge of the Joker - Batman_120
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 197
+        width: 73
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81fbaf7bf56e3eae0800000000000000
+      internalID: -1521118950338150632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zGenesis 32X SCD - Batman Revenge of the Joker - Batman_121
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 141
+        width: 92
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7aef24637eb8c3f20800000000000000
+      internalID: 3403749243549318823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zGenesis 32X SCD - Batman Revenge of the Joker - Batman_122
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 141
+        width: 91
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7dfed42e61978de0800000000000000
+      internalID: -1330935262613668481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zGenesis 32X SCD - Batman Revenge of the Joker - Batman_123
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 141
+        width: 91
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 857d694da64461880800000000000000
+      internalID: -8640643609439840424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zGenesis 32X SCD - Batman Revenge of the Joker - Batman_124
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 141
+        width: 92
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dbd8e2cceafd4400800000000000000
+      internalID: 310179844147698644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zGenesis 32X SCD - Batman Revenge of the Joker - Batman_125
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 141
+        width: 91
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e4b1faec29cd4220800000000000000
+      internalID: 2471852965253723368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zGenesis 32X SCD - Batman Revenge of the Joker - Batman_126
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 141
+        width: 91
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e3b39e3416a67b70800000000000000
+      internalID: 8896480719796417512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zGenesis 32X SCD - Batman Revenge of the Joker - Batman_127
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 85
+        width: 91
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d132ae71bce3cca60800000000000000
+      internalID: 7695594905269838621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zGenesis 32X SCD - Batman Revenge of the Joker - Batman_128
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 85
+        width: 92
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37236376ebaf24650800000000000000
+      internalID: 6215806131407041139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zGenesis 32X SCD - Batman Revenge of the Joker - Batman_129
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 85
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2c27173adc3b2b30800000000000000
+      internalID: 4263568380161109037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zGenesis 32X SCD - Batman Revenge of the Joker - Batman_130
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 85
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f8891992a2a31b00800000000000000
+      internalID: 798160378211698929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zGenesis 32X SCD - Batman Revenge of the Joker - Batman_131
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 85
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9be1e614a2de9f650800000000000000
+      internalID: 6267301122204901049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zGenesis 32X SCD - Batman Revenge of the Joker - Batman_132
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 85
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22ba5afc878153760800000000000000
+      internalID: 7436877266831125282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zGenesis 32X SCD - Batman Revenge of the Joker - Batman_133
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 85
+        width: 19
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4d20b1b6d48c3300800000000000000
+      internalID: 233207338355404110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zGenesis 32X SCD - Batman Revenge of the Joker - Batman_134
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 85
+        width: 22
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a58ca23ca0354bf50800000000000000
+      internalID: 6896228235100211290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zGenesis 32X SCD - Batman Revenge of the Joker - Batman_135
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 85
+        width: 28
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: debcb6d2531e6f4d0800000000000000
+      internalID: -3101043674886452243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zGenesis 32X SCD - Batman Revenge of the Joker - Batman_136
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 85
+        width: 31
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbfba15c07b033d10800000000000000
+      internalID: 2104038029883260860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zGenesis 32X SCD - Batman Revenge of the Joker - Batman_137
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 5
+        width: 54
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b0ce08740277c4d0800000000000000
+      internalID: -3114395253783740234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zGenesis 32X SCD - Batman Revenge of the Joker - Batman_138
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 5
+        width: 54
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65ae4b37d207a5cb0800000000000000
+      internalID: -4874460306158065066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zGenesis 32X SCD - Batman Revenge of the Joker - Batman_139
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 5
+        width: 60
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 395722292ea07e510800000000000000
+      internalID: 1578242162647266707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zGenesis 32X SCD - Batman Revenge of the Joker - Batman_140
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 5
+        width: 57
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55a70a10dbfd23470800000000000000
+      internalID: 8373000660104280661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zGenesis 32X SCD - Batman Revenge of the Joker - Batman_141
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 5
+        width: 72
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47c68804c2efd2320800000000000000
+      internalID: 2534961631294155892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zGenesis 32X SCD - Batman Revenge of the Joker - Batman_142
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 5
+        width: 56
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06d7764289f7cb9b0800000000000000
+      internalID: -5063031589648761504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zGenesis 32X SCD - Batman Revenge of the Joker - Batman_143
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 5
+        width: 66
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed709268bf17b7c20800000000000000
+      internalID: 3205280884905805790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zGenesis 32X SCD - Batman Revenge of the Joker - Batman_144
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 5
+        width: 72
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 102717ac8a842c700800000000000000
+      internalID: 559089193535500801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zGenesis 32X SCD - Batman Revenge of the Joker - Batman_145
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 5
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e94526df925095640800000000000000
+      internalID: 5069088533485081758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
