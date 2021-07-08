@@ -22,15 +22,15 @@ public class Combat : MonoBehaviour
     void Attack()
     {
 
-        animator.SetTrigger("Punch");
+        animator.SetTrigger("Attack");
 
-        Collider2D[] hitEnemies = Physics2D.OverlapCircleAll(attackPoint.position, attackRange, enemyLayers);
+        //Collider2D[] hitEnemies = Physics2D.OverlapCircleAll(attackPoint.position, attackRange, enemyLayers);
 
-        foreach (Collider2D enemy in hitEnemies)
-        {
-            enemy.GetComponent<Enemy>().TakeDamge(40);
+        //foreach (Collider2D enemy in hitEnemies)
+        //{
+        //    enemy.GetComponent<Enemy>().TakeDamge(40);
 
-        }
+        //}
     }
     private void OnDrawGizmosSelected()
     {
