@@ -5,14 +5,15 @@ TagManager:
   serializedVersion: 2
   tags:
   - Terrain
+  - Idle_zone
   layers:
   - Default
   - TransparentFX
   - Ignore Raycast
-  - 
+  - enemy
   - Water
   - UI
-  - 
+  - Player
   - 
   - 
   - 
