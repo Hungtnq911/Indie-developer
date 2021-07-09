@@ -3,17 +3,15 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags:
-  - Terrain
-  - Idle_zone
+  tags: []
   layers:
   - Default
   - TransparentFX
   - Ignore Raycast
-  - enemy
+  - 
   - Water
   - UI
-  - Player
+  - 
   - 
   - 
   - 
@@ -42,7 +40,4 @@ TagManager:
   m_SortingLayers:
   - name: Default
     uniqueID: 0
-    locked: 0
-  - name: Terrain
-    uniqueID: 1221399847
     locked: 0
