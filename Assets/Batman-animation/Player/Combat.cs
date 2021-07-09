@@ -8,15 +8,22 @@ public class Combat : MonoBehaviour
     public Transform attackPoint;
     public LayerMask enemyLayers;
 
+    public int punchdame = 40;
     public float attackRange = 0.5f;
 
-    //public int attackDamage = 40;
-    // Update is called once per frame
+    public float attackRate = 3f;
+    float nextAttackTime = 0f;
+
+
     void Update()
     {
-        if (Input.GetKeyDown(KeyCode.Z))
+        if (Time.time >= nextAttackTime)
         {
-            Attack();
+            if (Input.GetKeyDown(KeyCode.Z))
+            {
+                Attack();
+                nextAttackTime = Time.time + 1f / attackRate;
+            }
         }
     }
     void Attack()
@@ -24,13 +31,13 @@ public class Combat : MonoBehaviour
 
         animator.SetTrigger("Attack");
 
-        //Collider2D[] hitEnemies = Physics2D.OverlapCircleAll(attackPoint.position, attackRange, enemyLayers);
+        Collider2D[] hitEnemies = Physics2D.OverlapCircleAll(attackPoint.position, attackRange, enemyLayers);
 
-        //foreach (Collider2D enemy in hitEnemies)
-        //{
-        //    enemy.GetComponent<Enemy>().TakeDamge(40);
+        foreach (Collider2D enemy in hitEnemies)
+        {
+            enemy.GetComponent<Enemy>().TakeDamage(punchdame);
 
-        //}
+        }
     }
     private void OnDrawGizmosSelected()
     {
