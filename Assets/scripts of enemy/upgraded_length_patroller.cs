@@ -11,7 +11,6 @@ public class upgraded_length_patroller : MonoBehaviour
     public float length_timer = 6;
     // Start is called before the first frame update
     public string id = "ABC";
-    private bool flipstate = false;
     private enum State
     {
         patrol, 
@@ -34,20 +33,13 @@ public class upgraded_length_patroller : MonoBehaviour
 
     void Update()
     {
-        
-        float k = mMovementSpeed;
+        bool flipstate=false;
+
         Vector3 directionTranslation = (bIsGoingRight) ? transform.right : -transform.right;
 
         Vector3 raycastDirection = (bIsGoingRight) ? Vector3.right : Vector3.left;
-        if (flipstate)
-        {
-            state = State.shooting;
-        }
-        else
-        {
-            state = State.patrol;
-        }
 
+        
         RaycastHit2D hit = Physics2D.Raycast(transform.position + raycastDirection * mRaycastingDistance - new Vector3(0f, 0.25f, 0f), raycastDirection, 0.075f);
         switch (state)
         { 
@@ -56,7 +48,7 @@ public class upgraded_length_patroller : MonoBehaviour
                 {
                     // if the ennemy is going right, get the vector pointing to its right
 
-                    mMovementSpeed = k;
+
 
                     directionTranslation *= Time.deltaTime * mMovementSpeed;
                     transform.Translate(directionTranslation);
@@ -77,8 +69,7 @@ public class upgraded_length_patroller : MonoBehaviour
 
             case State.shooting:
                 {
-                    mMovementSpeed = 0;
-                    directionTranslation *= Time.deltaTime * mMovementSpeed;
+                    directionTranslation *= Time.deltaTime * 0;
                     transform.Translate(directionTranslation);
 
                 };break;
@@ -87,10 +78,17 @@ public class upgraded_length_patroller : MonoBehaviour
 
         
 
-      
+        if ( flipstate)
+        {
+            state = State.shooting;
+        }
+        else
+        {
+            state = State.patrol;
+        }
 
-        Enemy_zone z= GameObject.Find(id).GetComponent<Enemy_zone>();
-        flipstate = z.GetComponent<Enemy_zone>().Grabb();
+        Enemy_zone k= GameObject.Find(id).GetComponent<Enemy_zone>();
+        flipstate = k.GetComponent<Enemy_zone>().Grabb();
             
         // for (int i=0;i<5;i++)
 
