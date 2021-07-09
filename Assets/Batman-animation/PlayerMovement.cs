@@ -24,7 +24,8 @@ public class PlayerMovement : MonoBehaviour
         if (Input.GetButtonDown("Crounch"))
         {
             crounch = true;
-        }else if (Input.GetButtonUp("Crounch"))
+        }
+        else if (Input.GetButtonUp("Crounch"))
         {
             crounch = false;
         }
