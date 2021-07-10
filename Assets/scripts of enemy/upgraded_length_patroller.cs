@@ -11,7 +11,7 @@ public class upgraded_length_patroller : MonoBehaviour
     public float length_timer = 6;
     // Start is called before the first frame update
     public string id = "ABC";
-    private bool flipstate = false;
+    public bool flipstate = false;
     private enum State
     {
         patrol,
