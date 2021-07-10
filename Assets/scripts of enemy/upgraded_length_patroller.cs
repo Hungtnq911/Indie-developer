@@ -83,6 +83,35 @@ public class upgraded_length_patroller : MonoBehaviour
 
                 }; break;
 
+
         }
+
+
+
+
+
+        Enemy_zone z = GameObject.Find(id).GetComponent<Enemy_zone>();
+        flipstate = z.GetComponent<Enemy_zone>().Grabb();
+
+        // for (int i=0;i<5;i++)
+
+
+
+
+
     }
+
+    IEnumerator delay_patroller()
+    {
+        yield return new WaitForSeconds(length_timer);
+        transform.Translate(Vector3.zero);
+        bIsGoingRight = !bIsGoingRight;
+        _mSpriteRenderer.flipX = !bIsGoingRight;
+        StopCoroutine("delay_patroller");
+        //StopAllCoroutines();
+    }
+
+
+
 }
+
