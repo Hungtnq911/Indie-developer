@@ -91,11 +91,8 @@ public class upgraded_length_patroller : MonoBehaviour
 
 
 
-        Enemy_zone z = GameObject.Find(id).GetComponent<Enemy_zone>();
-        if (z.enabled)
-            flipstate = z.GetComponent<Enemy_zone>().Grabb();
-        else
-            flipstate = false;
+        Enemy_zone z = GameObject.Find(id).GetComponent<Enemy_zone>();     
+            flipstate = z.enabled;
  
         
         // for (int i=0;i<5;i++)
