@@ -8,25 +8,14 @@ public class player_sensor : MonoBehaviour
     public LayerMask layer;
     public int k = 0;
     // Update is called once per frame
-    void Update()
+    private void OnTriggerEnter2D(Collider2D collision)
     {
-        Vector3 raycastDirection = Vector3.down;
-        float mRaycastingDistance = 1f;
-        RaycastHit2D hit = Physics2D.Raycast(transform.position + raycastDirection * mRaycastingDistance - new Vector3(0f, 0.25f, 0f), raycastDirection, 0.075f);
+            collision.GetComponent<Enemy_zone>().enabled = true;
+        
+    }
 
-        if (hit.collider != null)
-        {
-            if (hit.transform.tag == "zone")
-            {
-                Collider2D[] zonetouch = Physics2D.OverlapCircleAll(transform.position,0.2f,layer);
-                foreach (Collider2D enemyzone in zonetouch)
-                {
-                    enemyzone.GetComponent<Enemy_zone>().u = false;
-                    Debug.Log("IN the zone now");
-                    k++;
-                }
-            }
-            
-        }
+    private void OnTriggerExit2D(Collider2D collision)
+    {
+        collision.GetComponent<Enemy_zone>().enabled = false;
     }
 }

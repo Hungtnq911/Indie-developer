@@ -12,6 +12,7 @@ public class upgraded_length_patroller : MonoBehaviour
     // Start is called before the first frame update
     public string id = "ABC";
     public bool flipstate = false;
+    private float k;
     private enum State
     {
         patrol,
@@ -26,7 +27,7 @@ public class upgraded_length_patroller : MonoBehaviour
     {
         _mSpriteRenderer = gameObject.GetComponent<SpriteRenderer>();
         _mSpriteRenderer.flipX = !bIsGoingRight;
-
+            k = mMovementSpeed;
 
 
     }
@@ -35,7 +36,7 @@ public class upgraded_length_patroller : MonoBehaviour
     void Update()
     {
 
-        float k = mMovementSpeed;
+        
         Vector3 directionTranslation = (bIsGoingRight) ? transform.right : -transform.right;
 
         Vector3 raycastDirection = (bIsGoingRight) ? Vector3.right : Vector3.left;
@@ -91,8 +92,12 @@ public class upgraded_length_patroller : MonoBehaviour
 
 
         Enemy_zone z = GameObject.Find(id).GetComponent<Enemy_zone>();
-        flipstate = z.GetComponent<Enemy_zone>().Grabb();
-
+        if (z.enabled)
+            flipstate = z.GetComponent<Enemy_zone>().Grabb();
+        else
+            flipstate = false;
+ 
+        
         // for (int i=0;i<5;i++)
 
 

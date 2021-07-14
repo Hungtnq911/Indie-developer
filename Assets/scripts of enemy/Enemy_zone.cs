@@ -17,7 +17,7 @@ public class Enemy_zone : MonoBehaviour
     public bool Grabb()
     {
         
-            return hey;
+            return true;
     }
 
 }
