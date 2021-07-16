@@ -387,10 +387,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9505202c4087b6a48802b84237ee16ab, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  animator: {fileID: 434223282}
   firepoint: {fileID: 1328470078}
   bulletPrefab: {fileID: 961785372}
-  ShootRate: 2
+  ShootRate: 3
 --- !u!114 &434223292
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1054,25 +1053,9 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 330681741046758824, guid: 8b3b686397a43e240b2297684ecea87f, type: 3}
-      propertyPath: m_SpriteTilingProperty.oldSize.x
-      value: 0.64
-      objectReference: {fileID: 0}
-    - target: {fileID: 330681741046758824, guid: 8b3b686397a43e240b2297684ecea87f, type: 3}
-      propertyPath: m_SpriteTilingProperty.oldSize.y
-      value: 0.47
-      objectReference: {fileID: 0}
     - target: {fileID: 330681741046758829, guid: 8b3b686397a43e240b2297684ecea87f, type: 3}
       propertyPath: m_Name
       value: Batman
-      objectReference: {fileID: 0}
-    - target: {fileID: 5385419844036006218, guid: 8b3b686397a43e240b2297684ecea87f, type: 3}
-      propertyPath: m_LocalPosition.x
-      value: 0.21
-      objectReference: {fileID: 0}
-    - target: {fileID: 5385419844036006218, guid: 8b3b686397a43e240b2297684ecea87f, type: 3}
-      propertyPath: m_LocalPosition.y
-      value: 0.007
       objectReference: {fileID: 0}
     m_RemovedComponents:
     - {fileID: 330681741046758827, guid: 8b3b686397a43e240b2297684ecea87f, type: 3}

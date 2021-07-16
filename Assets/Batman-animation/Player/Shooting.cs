@@ -4,7 +4,6 @@ using UnityEngine;
 
 public class Shooting : MonoBehaviour
 {
-    public Animator animator;
     public Transform firepoint;
     public GameObject bulletPrefab;
     public float ShootRate = 3f;
@@ -22,7 +21,6 @@ public class Shooting : MonoBehaviour
     }
     void Shoot()
     {
-        animator.SetTrigger("Shooting");
         Instantiate(bulletPrefab, firepoint.position, firepoint.rotation);
     }
 }
