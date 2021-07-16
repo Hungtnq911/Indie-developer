@@ -7,7 +7,6 @@ public class menu_script : MonoBehaviour
     public void playGame()
     {
         SceneManager.LoadScene(2);
-        Debug.Log("GO");
     }
 
     public void game_over()
