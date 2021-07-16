@@ -168,13 +168,15 @@ MonoBehaviour:
   m_GameObject: {fileID: 473213939}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: d63462b696d0a1c4398e2e1729bf6d6a, type: 3}
+  m_Script: {fileID: 11500000, guid: be326ac29f1b58349b9d6037c73819d8, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  mMovementSpeed: 8
+  mMovementSpeed: 1.5
   bIsGoingRight: 1
   mRaycastingDistance: 1
-  length_timer: 1.1
+  length_timer: 6
+  id: ABC
+  flipstate: 0
 --- !u!61 &473213942
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -636,13 +638,15 @@ MonoBehaviour:
   m_GameObject: {fileID: 1829001577}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: d63462b696d0a1c4398e2e1729bf6d6a, type: 3}
+  m_Script: {fileID: 11500000, guid: be326ac29f1b58349b9d6037c73819d8, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  mMovementSpeed: 8
+  mMovementSpeed: 1.5
   bIsGoingRight: 1
   mRaycastingDistance: 1
-  length_timer: 0.5
+  length_timer: 6
+  id: ABC
+  flipstate: 0
 --- !u!61 &1829001579
 BoxCollider2D:
   m_ObjectHideFlags: 0

@@ -5,7 +5,16 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
   - enabled: 1
-    path: Assets/Batman-animation/SampleScene.unity
-    guid: 2cda990e2423bbf4892e6590ba056729
+    path: Assets/menu/menu.unity
+    guid: 275464b2a50bfbf41ab447aa2b38143a
+  - enabled: 1
+    path: Assets/Scene-Chuong/another.unity
+    guid: 347cf602d201bc14e8259718dd8c04d5
+  - enabled: 1
+    path: Assets/Scene-Chuong/scene_compare_patrollers.unity
+    guid: 3fdcb0989cb45c547bfb7498393d014e
   m_configObjects: {}
