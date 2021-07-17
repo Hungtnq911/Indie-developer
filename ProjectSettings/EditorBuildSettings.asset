@@ -15,6 +15,6 @@ EditorBuildSettings:
     path: Assets/Scene-Chuong/another.unity
     guid: 347cf602d201bc14e8259718dd8c04d5
   - enabled: 1
-    path: Assets/Scene-Chuong/scene_compare_patrollers.unity
-    guid: 3fdcb0989cb45c547bfb7498393d014e
+    path: Assets/Scene-Chuong/stage 1.unity
+    guid: 33a12c49e0d0a5442b9a14c865c93794
   m_configObjects: {}
