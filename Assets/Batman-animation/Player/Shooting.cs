@@ -9,9 +9,11 @@ public class Shooting : MonoBehaviour
     public GameObject bulletPrefab;
     public float ShootRate = 3f;
     float nextShootingTime = 0f;
+    public CharacterStats player;
     void Update()
     {
-        if (Time.time >= nextShootingTime)
+        
+        if (Time.time >= nextShootingTime && player.currentBullet > 0)
         {
             if(Input.GetKeyDown(KeyCode.X))
             {
