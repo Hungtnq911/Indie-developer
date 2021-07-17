@@ -7,6 +7,7 @@ public class BulletBar : MonoBehaviour
 {
     public Slider slider;
 
+    
 
     public void SetMaxBullet(int bullet)
     {
