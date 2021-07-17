@@ -12,8 +12,9 @@ public class Chest : MonoBehaviour
 
     void OnTriggerEnter2D(Collider2D collision)
     {
-        CharacterStats player = collision.GetComponent<CharacterStats>();
-        if (player != null)
+       // CharacterStats player = collision.GetComponent<CharacterStats>();
+
+        if (collision.gameObject.CompareTag("Player"))
         {
             int bullet = Random.Range(0, 4);
             int health = Random.Range(0, 4);

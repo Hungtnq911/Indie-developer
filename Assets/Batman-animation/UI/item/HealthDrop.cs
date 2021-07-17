@@ -15,12 +15,14 @@ public class HealthDrop : MonoBehaviour
     void OnTriggerEnter2D(Collider2D collision)
     {
         CharacterStats player = collision.GetComponent<CharacterStats>();
-        if (player != null)
+        if (collision.gameObject.CompareTag("Player"))
         {
-
             player.TakePotion();
             Destroy(gameObject);
         }
+       
 
     }
+
+   
 }

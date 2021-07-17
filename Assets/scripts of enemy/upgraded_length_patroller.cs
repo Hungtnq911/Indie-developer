@@ -82,6 +82,8 @@ public class upgraded_length_patroller : MonoBehaviour
                     directionTranslation *= Time.deltaTime * mMovementSpeed;
                     transform.Translate(directionTranslation);
 
+
+
                 }; break;
 
 

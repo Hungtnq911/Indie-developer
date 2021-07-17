@@ -12,7 +12,7 @@ public class Shooting : MonoBehaviour
     public CharacterStats player;
     void Update()
     {
-        
+        player = GameObject.Find("player_stat").GetComponent<CharacterStats>();
         if (Time.time >= nextShootingTime && player.currentBullet > 0)
         {
             if(Input.GetKeyDown(KeyCode.X))
@@ -26,5 +26,6 @@ public class Shooting : MonoBehaviour
     {
         animator.SetTrigger("Shooting");
         Instantiate(bulletPrefab, firepoint.position, firepoint.rotation);
+        player.currentBullet--;
     }
 }
