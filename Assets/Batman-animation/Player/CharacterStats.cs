@@ -1,7 +1,7 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
-
+using UnityEngine.SceneManagement;
 
 public class CharacterStats : MonoBehaviour
 {
@@ -11,7 +11,7 @@ public class CharacterStats : MonoBehaviour
     public int currentBullet;
     public HealthBar healthBar;
     public BulletBar bulletBar;
-    
+    public GameObject Batman;
    
 
     private void Start()
@@ -33,8 +33,9 @@ public class CharacterStats : MonoBehaviour
     }
     public virtual void Die()
     {
-        //animation
-        //maybe die in savepoint
+        Destroy(GameObject.Find("Batman"));
+        SceneManager.LoadScene(1);
+
     }
     public void TakePotion()
     {
